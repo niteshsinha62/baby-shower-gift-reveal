@@ -12,8 +12,8 @@ function App() {
       <Routes>
         <Route path="/" element={<Welcome />} />
         <Route path="/step1" element={<StepOne />} />
-        <Route path="/step2" element={<StepTwo />} />
-        <Route path="/step3" element={<StepThree />} />
+     
+        <Route path="/step2" element={<StepThree />} />
         <Route path="/reveal" element={<FinalReveal />} />
       </Routes>
     </Router>

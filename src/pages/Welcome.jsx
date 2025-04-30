@@ -6,7 +6,7 @@ export default function Welcome() {
 
   return (
     <div className="flex flex-col items-center justify-center min-h-screen bg-pink-50 p-4 text-center">
-      <h1 className="text-3xl font-bold text-pink-600 mb-4">Hey Love 💖</h1>
+      <h1 className="text-3xl font-bold text-pink-600 mb-4">Hey Dimpy 💖</h1>
       <p className="text-lg text-gray-700 max-w-xl mb-6">
         It's been more than 7 years since we first met at Infosys. Now, seeing you as a beautiful mom-to-be,
         I just want to say how thankful I am for all the love, support, and kindness you've shown me over the years.
